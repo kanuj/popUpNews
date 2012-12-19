@@ -1,0 +1,10 @@
+*.swp
+*.swo
+dist
+node_modules
+*.DS_Store
+.log
+*.log
+log/*
+npm-debug.log
+config/secrets.json
